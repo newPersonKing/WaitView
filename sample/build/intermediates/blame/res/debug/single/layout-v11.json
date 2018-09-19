@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\MyEveryDay\\20180919\\WaitView-master\\sample\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\emcc\\.android\\build-cache\\56c4e9b4fef21779c7f5708783a138c2ac09ca3e\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\MyEveryDay\\20180919\\WaitView-master\\sample\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\emcc\\.android\\build-cache\\56c4e9b4fef21779c7f5708783a138c2ac09ca3e\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "F:\\MyEveryDay\\20180919\\WaitView-master\\sample\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\emcc\\.android\\build-cache\\56c4e9b4fef21779c7f5708783a138c2ac09ca3e\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\MyEveryDay\\20180919\\WaitView-master\\sample\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\emcc\\.android\\build-cache\\56c4e9b4fef21779c7f5708783a138c2ac09ca3e\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "F:\\MyEveryDay\\20180919\\WaitView-master\\sample\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\emcc\\.android\\build-cache\\56c4e9b4fef21779c7f5708783a138c2ac09ca3e\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\MyEveryDay\\20180919\\WaitView-master\\sample\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\emcc\\.android\\build-cache\\56c4e9b4fef21779c7f5708783a138c2ac09ca3e\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    }
+]
